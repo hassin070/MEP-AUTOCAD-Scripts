@@ -44,18 +44,12 @@ AutoCAD-Device-Tagger/
 ├── README.md # Project documentation
 ├── .gitignore # Git ignore rules
 
-shell
-Copy
-Edit
 
 ## 📄 Tag Format
 
 <LOOP>/<DEVICE_TYPE>-<NUMBER>-<FLOOR>
 Example: L2/MD-3-1F
 
-markdown
-Copy
-Edit
 
 ## ⚠️ Requirements
 
