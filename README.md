@@ -71,7 +71,7 @@ Auto-generates sprinkler layout grids based on user-defined dimensions and spaci
 
 ## 🧠 Author
 
-**Hassin Arman**  
+**MD Hassin Arman Nihal**  
 Intern MEP Engineer | AutoCAD Automation Enthusiast
 
 ---
